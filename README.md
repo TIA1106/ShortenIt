@@ -1,9 +1,5 @@
 
----
 
-## ✂️ 4. ShortenIt – Minimalist URL Shortener
-
-```md
 # ✂️ ShortenIt – Full-Stack URL Shortener
 
 ShortenIt is a no-login, fast, and privacy-focused URL shortener with a clean UI. Unlike bloated services, this project focuses purely on fast redirects, minimal design, and MongoDB-based persistence — perfect for sharing neat links on the go.
